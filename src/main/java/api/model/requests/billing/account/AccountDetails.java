@@ -1,6 +1,6 @@
 package api.model.requests.billing.account;
 
-import com.demo_xml_bank_response.model.requests.billing.Details;
+import api.model.requests.billing.Details;
 import lombok.*;
 
 import javax.xml.bind.annotation.XmlAccessType;
